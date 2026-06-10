@@ -1,0 +1,136 @@
+{
+  "app": {
+    "title": "د کرایې موټر مدیریت سیستم",
+    "dashboard": "ډشبورډ",
+    "carOwners": "د موټر مالکین",
+    "cars": "موټرونه",
+    "customers": "پیرودونکي",
+    "bookings": "بکینګونه",
+    "rentals": "کرایې",
+    "payments": "تادیات",
+    "guarantees": "ضمانتونه",
+    "ownerPayments": "مالکینو ته تادیات",
+    "team": "ټیم",
+    "invoiceReports" : "ریپورت"
+  },
+  "common": {
+    "add": "اضافه کول",
+    "edit": "سمول",
+    "delete": "ړنګول",
+    "save": "خوندي کول",
+    "cancel": "لغوه کول",
+    "search": "لټون",
+    "actions": "کړنې",
+    "status": "حالت",
+    "name": "نوم",
+    "phone": "تلیفون",
+    "address": "پته",
+    "date": "نیټه",
+    "amount": "مقدار",
+    "total": "ټول",
+    "confirm": "تایید",
+    "close": "بندول",
+    "upload": "اپلوډ",
+    "view": "کتل",
+    "noData": "معلومات شتون نلري",
+    "loading": "بارول..."
+  },
+  "dashboard": {
+    "totalCars": "ټول موټرونه",
+    "totalCustomers": "ټول پیرودونکي",
+    "activeRentals": "فعاله کرایې",
+    "totalRevenue": "ټول عاید",
+    "recentBookings": "وروستي بکینګونه",
+    "recentPayments": "وروستي تادیات"
+  },
+  "owner": {
+    "title": "د موټر مالکین",
+    "addOwner": "مالک اضافه کول",
+    "editOwner": "مالک سمول",
+    "ownerName": "د مالک نوم",
+    "ownerPhone": "تلیفون شمیره",
+    "ownerAddress": "پته"
+  },
+  "car": {
+    "title": "موټرونه",
+    "addCar": "موټر اضافه کول",
+    "editCar": "موټر سمول",
+    "model": "ماډل",
+    "plateNumber": "د پلیټ شمیره",
+    "ratePerHour": "فی ساعت نرخ",
+    "ratePerDay": "فی ورځ نرخ",
+    "owner": "مالک",
+    "available": "شتون لري",
+    "unavailable": "شتون نلري",
+    "rented": "کرایه شوی"
+  },
+  "customer": {
+    "title": "پیرودونکي",
+    "addCustomer": "پیرودونکی اضافه کول",
+    "editCustomer": "پیرودونکی سمول",
+    "customerName": "د پیرودونکي نوم",
+    "tazkiraPhoto": "د تذکرې عکس",
+    "photo": "عکس",
+    "drivingLicense": "د چلولو جواز عکس"
+  },
+  "booking": {
+    "title": "بکینګونه",
+    "addBooking": "بکینګ اضافه کول",
+    "editBooking": "بکینګ سمول",
+    "bookingDate": "د بکینګ نیټه",
+    "customer": "پیرودونکی",
+    "car": "موټر",
+    "pending": "انتظار کې",
+    "approved": "تایید شوی",
+    "active": "فعال",
+    "completed": "بشپړ شوی",
+    "cancelled": "لغوه شوی"
+  },
+  "rental": {
+    "title": "کرایې",
+    "startRental": "کرایه پیل کول",
+    "endRental": "کرایه پای ته رسول",
+    "startTime": "د پیل وخت",
+    "endTime": "د پای وخت",
+    "totalHours": "ټول ساعتونه",
+    "totalAmount": "ټوله مقدار",
+    "discount": "تخفیف",
+    "fineAmount": "جریمه"
+  },
+  "payment": {
+    "title": "تادیات",
+    "addPayment": "تادیه اضافه کول",
+    "amountPaid": "ورکړل شوې مقدار",
+    "paymentMethod": "د تادیې طریقه",
+    "paymentDate": "د تادیې نیټه",
+    "cash": "نغدي",
+    "card": "کارت",
+    "transfer": "بانکي لیږد",
+    "remainingBalance": "باقیداری"
+  },
+  "guarantee": {
+    "title": "ضمانتونه",
+    "addGuarantee": "ضمانت اضافه کول",
+    "type": "ډول",
+    "guarantor": "ضامن",
+    "item": "شی",
+    "document": "سند",
+    "locked": "تړل شوی",
+    "released": "خوشې شوی"
+  },
+  "ownerPayment": {
+    "title": "مالکینو ته تادیات",
+    "addPayment": "تادیه اضافه کول",
+    "owner": "مالک",
+    "amount": "مقدار",
+    "paymentDate": "د تادیې نیټه",
+    "remainingBalance": "باقیداری",
+    "receiptNo": "رسید نمبر"
+
+
+  },
+  "team": {
+    "title": "زموږ ټیم",
+    "subtitle": "د دې پروژې تر شا له حیرانونکو خلکو سره آشنا شئ"
+  }
+}

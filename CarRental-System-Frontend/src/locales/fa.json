@@ -1,0 +1,134 @@
+{
+  "app": {
+    "title": "سیستم مدیریت کرایه موتر",
+    "dashboard": "داشبورد",
+    "carOwners": "صاحبان موتر",
+    "cars": "موترها",
+    "customers": "مشتریان",
+    "bookings": "رزروها",
+    "rentals": "کرایه‌ها",
+    "payments": "پرداخت‌ها",
+    "guarantees": "ضمانت‌ها",
+    "ownerPayments": "پرداخت به صاحبان",
+    "team": "تیم",
+    "invoiceReports": "راپور"
+  },
+  "common": {
+    "add": "افزودن",
+    "edit": "ویرایش",
+    "delete": "حذف",
+    "save": "ذخیره",
+    "cancel": "لغو",
+    "search": "جستجو",
+    "actions": "عملیات",
+    "status": "وضعیت",
+    "name": "نام",
+    "phone": "تلفن",
+    "address": "آدرس",
+    "date": "تاریخ",
+    "amount": "مقدار",
+    "total": "مجموع",
+    "confirm": "تایید",
+    "close": "بستن",
+    "upload": "آپلود",
+    "view": "مشاهده",
+    "noData": "اطلاعاتی موجود نیست",
+    "loading": "در حال بارگذاری..."
+  },
+  "dashboard": {
+    "totalCars": "مجموع موترها",
+    "totalCustomers": "مجموع مشتریان",
+    "activeRentals": "کرایه‌های فعال",
+    "totalRevenue": "درآمد کل",
+    "recentBookings": "رزروهای اخیر",
+    "recentPayments": "پرداخت‌های اخیر"
+  },
+  "owner": {
+    "title": "صاحبان موتر",
+    "addOwner": "افزودن صاحب",
+    "editOwner": "ویرایش صاحب",
+    "ownerName": "نام صاحب",
+    "ownerPhone": "شماره تلفن",
+    "ownerAddress": "آدرس"
+  },
+  "car": {
+    "title": "موترها",
+    "addCar": "افزودن موتر",
+    "editCar": "ویرایش موتر",
+    "model": "مدل",
+    "plateNumber": "شماره پلاک",
+    "ratePerHour": "نرخ فی ساعت",
+    "ratePerDay": "نرخ فی روز",
+    "owner": "صاحب",
+    "available": "موجود",
+    "unavailable": "غیر موجود",
+    "rented": "کرایه شده"
+  },
+  "customer": {
+    "title": "مشتریان",
+    "addCustomer": "افزودن مشتری",
+    "editCustomer": "ویرایش مشتری",
+    "customerName": "نام مشتری",
+    "tazkiraPhoto": "عکس تذکره",
+    "photo": "عکس",
+    "drivingLicense": "عکس جواز رانندگی"
+  },
+  "booking": {
+    "title": "رزروها",
+    "addBooking": "افزودن رزرو",
+    "editBooking": "ویرایش رزرو",
+    "bookingDate": "تاریخ رزرو",
+    "customer": "مشتری",
+    "car": "موتر",
+    "pending": "در انتظار",
+    "approved": "تایید شده",
+    "active": "فعال",
+    "completed": "تکمیل شده",
+    "cancelled": "لغو شده"
+  },
+  "rental": {
+    "title": "کرایه‌ها",
+    "startRental": "شروع کرایه",
+    "endRental": "پایان کرایه",
+    "startTime": "زمان شروع",
+    "endTime": "زمان پایان",
+    "totalHours": "مجموع ساعات",
+    "totalAmount": "مبلغ کل",
+    "discount": "تخفیف",
+    "fineAmount": "مبلغ جریمه"
+  },
+  "payment": {
+    "title": "پرداخت‌ها",
+    "addPayment": "افزودن پرداخت",
+    "amountPaid": "مبلغ پرداخت شده",
+    "paymentMethod": "روش پرداخت",
+    "paymentDate": "تاریخ پرداخت",
+    "cash": "نقد",
+    "card": "کارت",
+    "transfer": "انتقال بانکی",
+    "remainingBalance": "مبلغ باقی مانده"
+  },
+  "guarantee": {
+    "title": "ضمانت‌ها",
+    "addGuarantee": "افزودن ضمانت",
+    "type": "نوع",
+    "guarantor": "ضامن",
+    "item": "شی",
+    "document": "سند",
+    "locked": "قفل شده",
+    "released": "آزاد شده"
+  },
+  "ownerPayment": {
+    "title": "پرداخت به صاحبان",
+    "addPayment": "افزودن پرداخت",
+    "owner": "صاحب",
+    "amount": "مبلغ",
+    "paymentDate": "تاریخ پرداخت",
+    "remainingBalance": "مبلغ باقی مانده",
+    "receiptNo": "نمبر رسید"
+  },
+  "team": {
+    "title": "تیم ما",
+    "subtitle": "با افراد شگفت‌انگیز پشت این پروژه آشنا شوید"
+  }
+}

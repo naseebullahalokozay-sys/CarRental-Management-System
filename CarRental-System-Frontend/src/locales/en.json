@@ -1,0 +1,134 @@
+{
+  "app": {
+    "title": "Rental Car Management",
+    "dashboard": "Dashboard",
+    "carOwners": "Car Owners",
+    "cars": "Cars",
+    "customers": "Customers",
+    "bookings": "Bookings",
+    "rentals": "Rentals",
+    "payments": "Payments",
+    "guarantees": "Guarantees",
+    "ownerPayments": "Owner Payments",
+    "team": "Team",
+    "invoiceReports": "Invoice Report"
+  },
+  "common": {
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "search": "Search",
+    "actions": "Actions",
+    "status": "Status",
+    "name": "Name",
+    "phone": "Phone",
+    "address": "Address",
+    "date": "Date",
+    "amount": "Amount",
+    "total": "Total",
+    "confirm": "Confirm",
+    "close": "Close",
+    "upload": "Upload",
+    "view": "View",
+    "noData": "No data available",
+    "loading": "Loading..."
+  },
+  "dashboard": {
+    "totalCars": "Total Cars",
+    "totalCustomers": "Total Customers",
+    "activeRentals": "Active Rentals",
+    "totalRevenue": "Total Revenue",
+    "recentBookings": "Recent Bookings",
+    "recentPayments": "Recent Payments"
+  },
+  "owner": {
+    "title": "Car Owners",
+    "addOwner": "Add Owner",
+    "editOwner": "Edit Owner",
+    "ownerName": "Owner Name",
+    "ownerPhone": "Phone Number",
+    "ownerAddress": "Address"
+  },
+  "car": {
+    "title": "Cars",
+    "addCar": "Add Car",
+    "editCar": "Edit Car",
+    "model": "Model",
+    "plateNumber": "Plate Number",
+    "ratePerHour": "Rate Per Hour",
+    "ratePerDay": "Rate Per Day",
+    "owner": "Owner",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "rented": "Rented"
+  },
+  "customer": {
+    "title": "Customers",
+    "addCustomer": "Add Customer",
+    "editCustomer": "Edit Customer",
+    "customerName": "Customer Name",
+    "tazkiraPhoto": "Tazkira Photo",
+    "photo": "Photo",
+    "drivingLicense": "Driving License Photo"
+  },
+  "booking": {
+    "title": "Bookings",
+    "addBooking": "Add Booking",
+    "editBooking": "Edit Booking",
+    "bookingDate": "Booking Date",
+    "customer": "Customer",
+    "car": "Car",
+    "pending": "Pending",
+    "approved": "Approved",
+    "active": "Active",
+    "completed": "Completed",
+    "cancelled": "Cancelled"
+  },
+  "rental": {
+    "title": "Rentals",
+    "startRental": "Start Rental",
+    "endRental": "End Rental",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "totalHours": "Total Hours",
+    "totalAmount": "Total Amount",
+    "discount": "Discount",
+    "fineAmount": "Fine Amount"
+  },
+  "payment": {
+    "title": "Payments",
+    "addPayment": "Add Payment",
+    "amountPaid": "Amount Paid",
+    "paymentMethod": "Payment Method",
+    "paymentDate": "Payment Date",
+    "cash": "Cash",
+    "card": "Card",
+    "transfer": "Bank Transfer",
+    "remainingBalance": "remainingBalance"
+  },
+  "guarantee": {
+    "title": "Guarantees",
+    "addGuarantee": "Add Guarantee",
+    "type": "Type",
+    "guarantor": "Guarantor",
+    "item": "Item",
+    "document": "Document",
+    "locked": "Locked",
+    "released": "Released"
+  },
+  "ownerPayment": {
+    "title": "Owner Payments",
+    "addPayment": "Add Payment",
+    "owner": "Owner",
+    "amount": "Amount",
+    "paymentDate": "Payment Date",
+    "remainingBalance": "remainingBalance",
+    "receiptNo" : "receiptNo"
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Meet the amazing people behind this project"
+  }
+}
